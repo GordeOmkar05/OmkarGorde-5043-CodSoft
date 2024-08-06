@@ -17,7 +17,7 @@ def pass_gen(length):
     return final
           
 if (__name__ == "__main__"):
-    print("----------------This is Basic Calculator----------------")
+    print("----------------Random Password Generator----------------")
     response="yes"
     while response=="yes":
          length = int(input("Enter required length of the password: "))
